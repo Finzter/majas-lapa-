@@ -1,0 +1,29 @@
+#galva{
+    text-align: center;
+    padding: auto;
+    
+}
+#lapa{
+    background-color: bisque;
+}
+.vidus{
+    float: left;
+    padding-left: 25%;
+    padding-top: 5%;
+    width: 40%;
+    margin-inline: left;
+
+}
+th{
+    border: 0.5px black solid;
+    
+}
+.est{
+    float: right;
+    padding-right: 1%;
+    margin-bottom: 30%;
+    width: 40%;
+}
+table{
+    margin-left: 5%;
+}
